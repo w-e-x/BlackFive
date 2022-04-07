@@ -1,0 +1,15 @@
+{
+  "name": "BlackFive",
+  "version": "1.0.0",
+  "description": "BlackFive Discord General Blacklist Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Wex Dev.",
+  "license": "Apache",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "quick.db": "^7.1.3"
+  }
+}
