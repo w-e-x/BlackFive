@@ -1,4 +1,4 @@
-<a href="https://discord.gg/CMa4nbkhAP"><img src="https://img.shields.io/discord/855062140430843904?color=%237289DA&label=DISCORD&style=for-the-badge"></a>
+<a href="https://discord.gg/qfFJ2KW97c"><img src="https://img.shields.io/discord/855062140430843904?color=%237289DA&label=DISCORD&style=for-the-badge"></a>
 # BlackFive
 Discord BlackFive Bot Source Code
 
